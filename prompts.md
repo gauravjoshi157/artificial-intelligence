@@ -30,6 +30,7 @@ Explain the above in one sentence:
 Antibiotics are medications used to treat bacterial infections by either killing the bacteria or stopping them from reproducing, but they are not effective against viruses and overuse can lead to antibiotic resistance.
 ```
 2. **Information Extraction:** While LLMs are built to do natural language generation amd related task, it also capable to perform natural language processing tasks.
+
 ***Prompt***:
 ```plain text
 Author-contribution statements and acknowledgements in research papers should state clearly and specifically whether, and to what extent, the authors used AI technologies such as ChatGPT in the preparation of their manuscript and analysis. They should also indicate which LLMs were used. This will alert editors and reviewers to scrutinize manuscripts more carefully for potential biases, inaccuracies and improper source crediting. Likewise, scientific journals should be transparent about their use of LLMs, for example when selecting submitted manuscripts.
@@ -112,3 +113,4 @@ Code snippets with comments
 Step-by-step explanations where needed
 Bullet points for best practices
 ```
+![Prompt Engineering Diagram](https://flyaps.com/blog/content/images/2024/10/Prompt_Engineering_examples-.png)
